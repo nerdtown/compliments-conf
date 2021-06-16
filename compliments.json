@@ -1,0 +1,96 @@
+"compliments": {                                                                       
+    "anytime": [                                                                   
+        "Well hello there!!",                                                
+        "I miss you, gorgeous!",                                             
+        "I love you baby!",                                                  
+        "What's cooking, good looking? ;)",                                  
+        "Howdy ;)",
+        "Hi.",
+        "Will you stop looking while I edit these?"
+    ],                                                                           
+    "morning": [                                                                   
+        "Good morning, beautiful!",                                          
+        "Enjoy your day!",                                                   
+        "How was your sleep?",                                               
+        "I hope you slept well!",                                            
+        "I hope I get to see you later :)",                                  
+        "Tell your boyfriend to bring you coffee!",
+        "I hope you have a great day at work sugar!",
+    ],                                                                           
+    "afternoon": [                                                                 
+        "Hello, beauty!",                                                    
+        "You look stunning!",                                                
+        "Looking good today!",                                               
+        "Did I forget to tell you you're gorgeous today?",                   
+        "Hope you're having a great day!"                                    
+    ],                                                                           
+    "evening": [                                                                   
+        "Wow, you look hot!",                                                
+        "You look nice!",                                                    
+        "Hi beautiful!",                                                     
+        "Watch for deer if you're going out driving!",
+        "May I just say... WOW",
+        "Drinks tonight?",
+        "We going to Queen street?",
+        "Dare I say you glow in the starlight like the star you are?"
+    ],                                                                           
+    "fog": [                                                                       
+        "It's a bit foggy, be careful!",                                     
+        "Don't get lost in the fog now!"                                     
+    ],                                                                           
+    "snow": [                                                                      
+        "IT'S SNOWING!!!!!!",                                                
+        "Watch for ice!",                                                    
+        "Snowball fight!",                                                   
+        "Better get some hot chocolate!"                                     
+    ],                                                                           
+    "rain": [                                                                      
+        "Don't forget your umbrella!",                                       
+        "You might want a rain jacket."                                      
+    ],                                                                           
+    "day_sunny": [                                                                 
+        "It's sunny and 75! Or it might just be sunny...",                   
+        "Today is as beautiful as you are!"                                  
+    ],                                                                           
+    "thunderstorm": [                                                              
+        "Put those crocs in 4-wheel drive!",                                 
+        "Might want to stay in for this one!"                                
+    ],
+    "....-01-01": [                                                              
+        "Happy New Year babe!",                                              
+        "Let's get this year started!"                                       
+    ],                                                                           
+    "....-01-11": [                                                              
+        "Your boyfriend is an old man."                                      
+    ],                                                                           
+    "....-02-14": [                                                              
+        "Happy Valentines Day sweetheart!",                                  
+        "Will you be my Valentine?"                                          
+    ],                                                                           
+    "....-04-11": [                                                              
+        "Happy birthday baby!",                                              
+        "You're another year younger in my book ;)"                          
+    ],                                                                           
+    "....-06-13": [                                                              
+        "HAPPY ANNIVERSARY!",                                                
+        "Another year already? Time flies when you're in love <3"            
+    ],
+    "....-06-14": [
+        "It's the day after our anniversary babe.  I know when it is!",
+        "The mirror also knows when our anniversary is, so no complaints!",
+        "Guess you need to spend more time in your room reviewing messages!",
+        "P.S. - I love you even though you didn't see any of this."
+    ],
+    "....-10-31": [                                                              
+        "Happy Holloween!",                                                  
+        "This is Holloween - This is Holloween..."                           
+    ],                                                                           
+    "....-12-24": [                                                              
+        "Merry Christmas Eve babe!",                                         
+        "Guess what tomorrow is? CHRISTMAS!"                                 
+    ],                                                                           
+    "....-12-25": [                                                              
+        "Merry Christmas honey!",                                            
+        "IT'S SANTAAAAA!!!"                                                  
+    ]                                                                            
+}
